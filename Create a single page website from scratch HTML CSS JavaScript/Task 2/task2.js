@@ -1,0 +1,1 @@
+Write the program to add placeholder content to sections in JavaScript using Editor
